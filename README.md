@@ -1055,7 +1055,3 @@ public function edit($id)
     return view('artikel/form_edit', $data);
 }
 ```
-
-### Repository
-- Repository ini berisi hasil praktikum modul 1 CodeIgniter.
-- URL: https://github.com/Dimasi1234/Lab7Web
